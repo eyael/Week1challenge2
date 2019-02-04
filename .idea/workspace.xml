@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbafe613-32c3-4329-9417-0e89520b892e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/runConfigurations/Main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/WeekoneChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/out/production/WeekoneChallenge/Dicegame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/out/production/WeekoneChallenge/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/src/com/company/Dicegame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekoneChallenge/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicApplicatioText" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicApplicatioText" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basicapplicationtxt" beforeDir="false" afterPath="$PROJECT_DIR$/../Basicapplicationtxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employeepay" beforeDir="false" afterPath="$PROJECT_DIR$/../Employeepay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewEmploypay" beforeDir="false" afterPath="$PROJECT_DIR$/../NewEmploypay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avgScore" beforeDir="false" afterPath="$PROJECT_DIR$/../avgScore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../loop/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="534">
+              <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,7 +31,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,14 +52,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,27 +102,22 @@
       <option name="presentableId" value="Default" />
       <updated>1549053208580</updated>
       <workItem from="1549053212317" duration="4830000" />
+      <workItem from="1549309043547" duration="8163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4830000" />
+    <option name="totallyTimeSpent" value="12993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
@@ -143,13 +125,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,8 +146,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="534">
+          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
